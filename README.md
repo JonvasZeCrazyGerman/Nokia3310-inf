@@ -48,14 +48,18 @@
 Here is some info on the Nokia 3310.
 </p>
       <ul>
-      <li><The Nokia 3310 is a GSM mobile phone announced on September 1, 2000,[2] and released in the fourth quarter of the year, replacing the popular Nokia 3210. It sold very well, being one of the most successful phones with 126 million units sold worldwide.[3] The phone is still widely acclaimed[1] and has gained a cult status due to its durability. It is one of Nokia's most iconic devices.
+      <li><
+      
+      The Nokia 3310 is a GSM mobile phone announced on September 1, 2000,[2] and released in the fourth quarter of the year, replacing the popular Nokia 3210. It sold very well, being one of the most successful phones with 126 million units sold worldwide.[3] The phone is still widely acclaimed[1] and has gained a cult status due to its durability. It is one of Nokia's most iconic devices.
 
-Several variants of the 3310 have been released, including the Nokia 3315, 3320, 3330, 3350, 3360, 3390 and 3395. >source</a></li>
+
+
+</a></li>
       </ul>
     </div>
       
     <p id="Nokia quote">
-    <img id="https://en.wikipedia.org/wiki/Nokia_3310#/media/File:Nokia_3310_blue.jpg">
+
      "My Nokia broke" said nobody in the existance of mankind 
     </p>
     
